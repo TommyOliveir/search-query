@@ -15,6 +15,7 @@ html, body {
     display: flex;
     padding: 20px;
     background-color: orange;
+    background-color: rgb(26, 255, 0);
 }
 
 #search label {
