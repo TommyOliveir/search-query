@@ -14,9 +14,7 @@ html, body {
 #search {
     display: flex;
     padding: 20px;
-
-    background-color: red;
-
+    background-color: rgb(221, 27, 192);
 }
 
 #search label {
